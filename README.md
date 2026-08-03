@@ -13,9 +13,4 @@
 <br/>
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=1&pause=100000&color=22C55E&center=false&vCenter=true&width=400&height=45&lines=Currently+Training+In" />
-text
-[■■■■■■■■□□] 80% - SQL & Data Cleaning
-[■■■■■■■□□□] 70% - Power BI / Tableau Dashboards
-[■■■■■■□□□□] 60% - Python for Data Analysis
-[■■■■□□□□□□] 40% - Full-Stack Development (MERN)
-<br/>
+<table> <tr> <td align="left">SQL & Data Cleaning</td> <td><img src="https://progress-bar.xyz/80?title=&width=250&color=22c55e&suffix=%25" /></td> </tr> <tr> <td align="left">Power BI / Tableau Dashboards</td> <td><img src="https://progress-bar.xyz/70?title=&width=250&color=f2c811&suffix=%25" /></td> </tr> <tr> <td align="left">Python for Data Analysis</td> <td><img src="https://progress-bar.xyz/60?title=&width=250&color=3b82f6&suffix=%25" /></td> </tr> <tr> <td align="left">Full-Stack Development (MERN)</td> <td><img src="https://progress-bar.xyz/40?title=&width=250&color=dc2626&suffix=%25" /></td> </tr> </table> <br/>
