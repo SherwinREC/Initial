@@ -15,7 +15,7 @@
 <table> <tr> <td align="left">SQL & Data Cleaning</td> <td><img src="https://progress-bar.xyz/80?title=&width=250&color=22c55e&suffix=%25" /></td> </tr> <tr> <td align="left">Power BI / Tableau Dashboards</td> <td><img src="https://progress-bar.xyz/70?title=&width=250&color=f2c811&suffix=%25" /></td> </tr> <tr> <td align="left">Python for Data Analysis</td> <td><img src="https://progress-bar.xyz/60?title=&width=250&color=3b82f6&suffix=%25" /></td> </tr> <tr> <td align="left">Full-Stack Development</td> <td><img src="https://progress-bar.xyz/40?title=&width=250&color=dc2626&suffix=%25" /></td> </tr> </table> <br/>
 
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=1&pause=100000&color=22C55E&center=false&vCenter=true&width=500&height=45&lines=Automation+Tools+Mastered" /> <br/> <br/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=1&pause=100000&color=22C55E&center=false&vCenter=true&width=500&height=45&lines=Automation+Tools+Mastered" /> <br/><br/>
 <table align="center"> <tr> <td align="center"><img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" /></td> <td align="center"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /></td> <td align="center"><img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logoColor=white" /></td> <td align="center"><img src="https://custom-icon-badges.demolab.com/badge/Power_Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white" /></td> </tr> </table> <br/>
 
 <br/>
