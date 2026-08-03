@@ -30,5 +30,5 @@
 </table> <br/>
 
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=1&pause=100000&color=22C55E&center=false&vCenter=true&width=350&height=45&lines=Contact+via" /> <br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=1&pause=100000&color=22C55E&center=false&vCenter=true&width=350&height=45&lines=Signal+Flare+(Contact+via)" /> <br/><br/>
 <p align="center"> <a href="https://www.linkedin.com/in/sherwin-richie-j/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p> <br/>
