@@ -12,5 +12,10 @@
 
 <br/>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=1&pause=100000&color=22C55E&center=false&vCenter=true&width=500&height=45&lines=Hero+Stats+(Training+Records)" />
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=SherwinREC&show_icons=true&theme=dark&hide_border=true&title_color=22C55E&icon_color=DC2626&text_color=ffffff&bg_color=0d1117" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherwinREC&layout=compact&theme=dark&hide_border=true&title_color=22C55E&text_color=ffffff&bg_color=0d1117" /> </p> <br/> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SherwinREC&theme=dark&hide_border=true&background=0d1117&ring=DC2626&fire=22C55E&currStreakLabel=22C55E" /> </p> <br/> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SherwinREC&theme=darkhub&no-frame=true&margin-w=10&row=1" /> </p> <br/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=1&pause=100000&color=22C55E&center=false&vCenter=true&width=400&height=45&lines=Currently+Training+In" />
+text
+[■■■■■■■■□□] 80% - SQL & Data Cleaning
+[■■■■■■■□□□] 70% - Power BI / Tableau Dashboards
+[■■■■■■□□□□] 60% - Python for Data Analysis
+[■■■■□□□□□□] 40% - Full-Stack Development (MERN)
+<br/>
